@@ -4,5 +4,7 @@
     },
     "cSpell.words": [
         "RJVM"
-    ]
+    ],
+    "cSpell.language": "en,ru",
+    "metals.showInferredType": "true"
 }

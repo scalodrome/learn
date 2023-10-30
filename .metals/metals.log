@@ -2013,3 +2013,649 @@ Oct 30, 2023 4:06:32 PM scala.meta.internal.pc.CompilerAccess handleError
 SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_16-06-32-115.md
 2023.10.30 16:08:33 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basic.scala[0m
 2023.10.30 16:41:38 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basic.scala[0m
+2023.10.30 17:08:32 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:10:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.30 17:13:14 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:14:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-14-42-133.md
+Oct 30, 2023 5:14:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-14-45-793.md
+Oct 30, 2023 5:15:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2008
+2023.10.30 17:16:53 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:17:09 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:17:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.30 17:37:13 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:37:33 INFO  running '/home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3395229128435887642/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.10.30 17:37:35 INFO  [info] welcome to sbt 1.9.6 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.10.30 17:37:37 INFO  [info] loading global plugins from /home/iurl/.sbt/1.0/plugins[0m
+2023.10.30 17:37:38 INFO  [info] loading settings for project learn-build-build from metals.sbt ...[0m
+2023.10.30 17:37:38 INFO  [info] loading project definition from /home/iurl/learn/project/project[0m
+2023.10.30 17:37:38 INFO  [info] loading settings for project learn-build from metals.sbt ...[0m
+2023.10.30 17:37:38 INFO  [info] loading project definition from /home/iurl/learn/project[0m
+2023.10.30 17:37:42 INFO  [success] Generated .bloop/learn-build.json[0m
+2023.10.30 17:37:42 INFO  [success] Total time: 2 s, completed Oct 30, 2023 5:37:42 PM[0m
+2023.10.30 17:37:42 INFO  [info] loading settings for project learn from build.sbt ...[0m
+2023.10.30 17:37:42 INFO  [info] set current project to hello-world (in build file:/home/iurl/learn/)[0m
+2023.10.30 17:37:42 INFO  [success] Generated .bloop/learn-test.json[0m
+2023.10.30 17:37:42 INFO  [success] Generated .bloop/learn.json[0m
+2023.10.30 17:37:42 INFO  [success] Total time: 0 s, completed Oct 30, 2023 5:37:42 PM[0m
+2023.10.30 17:37:43 INFO  time: ran 'sbt bloopInstall' in 9.36s[0m
+2023.10.30 17:37:43 INFO  Disconnecting from Bloop session...[0m
+2023.10.30 17:37:43 INFO  Shut down connection with build server.[0m
+2023.10.30 17:37:43 INFO  Shut down connection with build server.[0m
+2023.10.30 17:37:43 INFO  Attempting to connect to the build server...[0m
+2023.10.30 17:37:43 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 17:37:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 17:37:43 INFO  Attempting to connect to the build server...[0m
+2023.10.30 17:37:43 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 17:37:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/project/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 17:37:43 INFO  time: Connected to build server in 0.14s[0m
+2023.10.30 17:37:43 INFO  Connected to Build server: Bloop v1.5.11[0m
+2023.10.30 17:37:43 INFO  time: indexed workspace in 0.42s[0m
+2023.10.30 17:37:43 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:37:46 INFO  time: code lens generation in 2.72s[0m
+2023.10.30 17:37:52 INFO  compiling learn (2 scala sources)[0m
+2023.10.30 17:37:52 INFO  time: compiled learn in 0.87s[0m
+2023.10.30 17:40:03 ERROR Can't run javac on /home/iurl/learn/src/playground/JavaPlayground.java with options: [-cp
+/home/iurl/.cache/coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.6/semanticdb-javac-0.9.6.jar
+-d
+/tmp/metals-javac-semanticdb5038001473258668933/target
+-Xplugin:semanticdb -sourceroot:/home/iurl/learn/src/playground -targetroot:/tmp/metals-javac-semanticdb5038001473258668933/target]
+java.lang.NoClassDefFoundError: com/sun/source/util/JavacTask
+	at scala.meta.internal.pc.JavaMetalsGlobal$.compilationTask(JavaMetalsGlobal.scala:69)
+	at scala.meta.internal.metals.JavaInteractiveSemanticdb.textDocument(JavaInteractiveSemanticdb.scala:78)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$compile$2(InteractiveSemanticdbs.scala:173)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.compile(InteractiveSemanticdbs.scala:173)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$4(InteractiveSemanticdbs.scala:98)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:98)
+	at java.util.HashMap.compute(HashMap.java:1197)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$didOpen$3(MetalsLspService.scala:1042)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+2023.10.30 17:40:03 WARN  Running javac-semanticdb failed for file:///home/iurl/learn/src/playground/JavaPlayground.java. Output:
+[0m
+2023.10.30 17:40:03 WARN  no build target for: /home/iurl/learn/src/playground/JavaPlayground.java[0m
+Exception in thread "pool-1-thread-319" java.lang.NoClassDefFoundError: com/sun/source/tree/Tree
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:45)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1641)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.sun.source.tree.Tree
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 9 more
+2023.10.30 17:45:07 WARN  no build target for: /home/iurl/learn/src/playground/ScalaPlayground.scala[0m
+Oct 30, 2023 5:46:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-46-57-234.md
+Oct 30, 2023 5:47:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-00-508.md
+Oct 30, 2023 5:47:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-01-268.md
+Oct 30, 2023 5:47:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-02-160.md
+Oct 30, 2023 5:47:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-02-827.md
+Oct 30, 2023 5:47:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-09-631.md
+2023.10.30 17:47:09 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed character literal
+  val z: = ''
+           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:47:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-11-234.md
+Oct 30, 2023 5:47:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-12-779.md
+Oct 30, 2023 5:47:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-13-711.md
+Oct 30, 2023 5:47:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-14-568.md
+Oct 30, 2023 5:47:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-16-228.md
+Oct 30, 2023 5:47:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-17-372.md
+Oct 30, 2023 5:47:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-27-058.md
+Oct 30, 2023 5:47:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-28-288.md
+Oct 30, 2023 5:47:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-32-257.md
+Oct 30, 2023 5:47:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-39-613.md
+Oct 30, 2023 5:47:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-40-546.md
+2023.10.30 17:47:41 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed character literal
+  val z = 'L'; val o = ''
+                       ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:47:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-41-996.md
+Oct 30, 2023 5:47:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-44-675.md
+Oct 30, 2023 5:47:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-47-46-156.md
+2023.10.30 17:48:14 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:48:51 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:50:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-50-58-848.md
+Oct 30, 2023 5:51:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-00-365.md
+Oct 30, 2023 5:51:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-01-336.md
+Oct 30, 2023 5:51:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-03-371.md
+Oct 30, 2023 5:51:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-06-110.md
+Oct 30, 2023 5:51:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-09-383.md
+2023.10.30 17:51:13 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:51:16 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:51:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-23-205.md
+2023.10.30 17:51:23 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:51:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-23-819.md
+Oct 30, 2023 5:51:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-32-631.md
+2023.10.30 17:51:33 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:51:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-33-943.md
+2023.10.30 17:51:35 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:51:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-35-309.md
+Oct 30, 2023 5:51:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-35-346.md
+2023.10.30 17:51:36 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:51:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-39-156.md
+Oct 30, 2023 5:51:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-51-44-325.md
+2023.10.30 17:51:47 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+2023.10.30 17:52:36 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: Invalid literal number
+  val aShort: Short = 234dsd
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.getFraction(LegacyScanner.scala:814)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:851)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:52:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-52-37-042.md
+Oct 30, 2023 5:52:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-52-40-274.md
+2023.10.30 17:52:40 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: Invalid literal number
+  val aShort: Short = 234ds
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.getFraction(LegacyScanner.scala:814)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:851)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:52:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-52-44-374.md
+2023.10.30 17:52:44 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: Invalid literal number
+  val aShort: Short = 234ds
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.getFraction(LegacyScanner.scala:814)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:851)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:52:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-52-46-744.md
+2023.10.30 17:52:46 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: Invalid literal number
+  val aShort: Short = 234ds
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.getFraction(LegacyScanner.scala:814)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:851)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:53:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-53-51-245.md
+Oct 30, 2023 5:53:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-53-53-163.md
+Oct 30, 2023 5:53:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-53-53-959.md
+Oct 30, 2023 5:53:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-53-54-559.md
+Oct 30, 2023 5:53:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-53-56-905.md
+Oct 30, 2023 5:54:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-54-04-575.md
+2023.10.30 17:54:04 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/lectures.part1basics.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: Invalid literal number
+  val a: Short = 1233129329S
+                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+Oct 30, 2023 5:54:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-54-09-968.md
+Oct 30, 2023 5:54:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-54-11-785.md
+Oct 30, 2023 5:54:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-54-14-071.md
+Oct 30, 2023 5:54:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_17-54-17-398.md
+2023.10.30 17:54:20 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 5:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3192
+2023.10.30 17:55:12 WARN  no build target for: /home/iurl/learn/src/lectures/lectures.part1basics.scala[0m
+Oct 30, 2023 6:00:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-00-56-942.md
+Oct 30, 2023 6:00:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-00-58-057.md
+Oct 30, 2023 6:00:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-00-58-469.md
+Oct 30, 2023 6:00:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-00-58-884.md
+Oct 30, 2023 6:01:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-01-00-624.md
+Oct 30, 2023 6:01:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-01-08-778.md
+2023.10.30 18:04:25 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+2023.10.30 18:05:01 WARN  no build target for: /home/iurl/learn/src/lectures/ValuesVariablesTypes.scala[0m
+2023.10.30 18:05:09 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+Oct 30, 2023 6:05:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-05-19-482.md
+2023.10.30 18:05:22 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+Oct 30, 2023 6:06:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-06-03-701.md
+Oct 30, 2023 6:06:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-06-04-562.md
+Oct 30, 2023 6:08:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4022
+Oct 30, 2023 6:08:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4088
+Oct 30, 2023 6:08:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-08-20-722.md
+2023.10.30 18:09:23 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+Oct 30, 2023 6:10:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-10-17-617.md
+2023.10.30 18:10:17 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/lectures/Expressions.scala
+scala.meta.tokenizers.TokenizeException: <input>:10: error: trailing separator is not allowed
+  println(1_)
+           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoTrailingSeparator(LegacyScanner.scala:768)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:869)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+2023.10.30 18:11:07 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+Oct 30, 2023 6:17:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-26-194.md
+Oct 30, 2023 6:17:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-26-796.md
+Oct 30, 2023 6:17:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-27-809.md
+Oct 30, 2023 6:17:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-28-219.md
+Oct 30, 2023 6:17:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-29-785.md
+Oct 30, 2023 6:17:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-30-711.md
+Oct 30, 2023 6:17:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-17-36-389.md
+Oct 30, 2023 6:18:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4838
+Oct 30, 2023 6:25:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-25-52-707.md
+Oct 30, 2023 6:26:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4937
+2023.10.30 18:26:49 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+2023.10.30 18:44:20 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+2023.10.30 18:49:31 WARN  no build target for: /home/iurl/learn/src/lectures/Expressions.scala[0m
+2023.10.30 18:50:14 WARN  no build target for: /home/iurl/learn/src/lectures/Functions.scala[0m
+2023.10.30 18:50:30 WARN  no build target for: /home/iurl/learn/src/lectures/Functions.scala[0m
+2023.10.30 18:51:12 WARN  no build target for: /home/iurl/learn/src/lectures/Functions.scala[0m
+Oct 30, 2023 6:56:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-56-48-542.md
+Oct 30, 2023 6:57:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-57-36-052.md
+Oct 30, 2023 6:57:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-57-51-878.md
+Oct 30, 2023 6:57:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-57-52-426.md
+Oct 30, 2023 6:57:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-57-55-254.md
+Oct 30, 2023 6:57:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-57-56-663.md
+Oct 30, 2023 6:58:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-00-284.md
+Oct 30, 2023 6:58:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-05-500.md
+Oct 30, 2023 6:58:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-07-689.md
+Oct 30, 2023 6:58:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-09-930.md
+Oct 30, 2023 6:58:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-14-112.md
+Oct 30, 2023 6:58:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-15-625.md
+Oct 30, 2023 6:58:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-16-065.md
+Oct 30, 2023 6:58:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-17-059.md
+Oct 30, 2023 6:58:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-21-387.md
+Oct 30, 2023 6:58:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-30-234.md
+Oct 30, 2023 6:58:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5723
+Oct 30, 2023 6:58:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/iurl/learn/.metals/.reports/metals-full/2023-10-30/r_compiler-error_18-58-39-711.md
+2023.10.30 18:58:47 WARN  no build target for: /home/iurl/learn/src/lectures/Functions.scala[0m
+2023.10.30 18:59:39 INFO  compiling learn (1 scala source)[0m
+2023.10.30 18:59:39 INFO  time: compiled learn in 0.12s[0m
+2023.10.30 19:00:50 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:00:50 INFO  time: compiled learn in 0.12s[0m
+2023.10.30 19:01:02 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:01:02 INFO  time: compiled learn in 0.11s[0m
+2023.10.30 19:01:07 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:01:07 INFO  time: compiled learn in 0.14s[0m
+2023.10.30 19:11:13 INFO  compiling learn (5 scala sources)[0m
+2023.10.30 19:11:13 INFO  time: compiled learn in 0.35s[0m
+2023.10.30 19:11:13 INFO  compiling learn (5 scala sources)[0m
+2023.10.30 19:11:13 INFO  time: compiled learn in 0.19s[0m
+2023.10.30 19:12:26 INFO  compiling learn (5 scala sources)[0m
+2023.10.30 19:12:26 INFO  time: compiled learn in 0.17s[0m
+2023.10.30 19:12:33 INFO  compiling learn (5 scala sources)[0m
+2023.10.30 19:12:33 INFO  time: compiled learn in 0.2s[0m
+2023.10.30 19:12:40 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/main/scala/Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string interpolation
+  println(aRepeatedFunction(h"ello, 3))
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+2023.10.30 19:12:42 ERROR Failed to tokenize input for semantic tokens for /home/iurl/learn/src/main/scala/Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  println(aRepeatedFunction("hello, 3))
+                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+2023.10.30 19:12:46 INFO  compiling learn (5 scala sources)[0m
+2023.10.30 19:12:47 INFO  time: compiled learn in 1.25s[0m
+2023.10.30 19:12:48 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:12:48 INFO  time: compiled learn in 0.85s[0m
+2023.10.30 19:13:29 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:13:29 INFO  time: compiled learn in 0.67s[0m
+2023.10.30 19:25:07 INFO  Shutting down server[0m
+2023.10.30 19:25:07 INFO  shutting down Metals[0m
+2023.10.30 19:25:07 INFO  Shut down connection with build server.[0m
+2023.10.30 19:25:07 INFO  Shut down connection with build server.[0m
+2023.10.30 19:25:07 INFO  Exiting server[0m
+2023.10.30 19:25:43 INFO  Started: Metals version 1.1.0 in folders '/home/iurl/learn' for client Visual Studio Code 1.82.2.[0m
+2023.10.30 19:25:45 INFO  Attempting to connect to the build server...[0m
+2023.10.30 19:25:45 INFO  skipping build import with status 'Installed'[0m
+2023.10.30 19:25:45 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 19:25:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 19:25:45 INFO  Attempting to connect to the build server...[0m
+2023.10.30 19:25:45 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 19:25:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/project/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 19:25:45 INFO  time: Connected to build server in 0.71s[0m
+2023.10.30 19:25:45 INFO  Connected to Build server: Bloop v1.5.11[0m
+2023.10.30 19:25:47 INFO  no build target found for /home/iurl/learn/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2023.10.30 19:25:49 INFO  time: indexed workspace in 1.47s[0m
+2023.10.30 19:27:21 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:27:21 INFO  time: compiled learn in 0.18s[0m
+2023.10.30 19:28:09 INFO  compiling learn (1 scala source)[0m
+2023.10.30 19:28:09 INFO  time: compiled learn in 0.87s[0m
+Oct 30, 2023 7:47:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
