@@ -59,3 +59,5 @@
 2023.10.30 15:05:52 INFO  time: indexed workspace in 0.79s[0m
 2023.10.30 15:05:55 INFO  time: code lens generation in 1.55s[0m
 2023.10.30 15:19:45 INFO  skipping build import with status 'Installed'[0m
+Oct 30, 2023 3:20:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
