@@ -1,0 +1,61 @@
+2023.10.30 15:03:57 INFO  Started: Metals version 1.1.0 in folders '/home/iurl/learn' for client Visual Studio Code 1.82.2.[0m
+2023.10.30 15:03:58 WARN  Build server is not auto-connectable.[0m
+2023.10.30 15:04:06 INFO  running '/home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals7660126324295859053/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.10.30 15:04:06 WARN  no build target for: /home/iurl/learn/project/metals.sbt[0m
+2023.10.30 15:04:06 WARN  no build target for: /home/iurl/learn/project/project/metals.sbt[0m
+2023.10.30 15:04:06 INFO  skipping build import with status 'Started'[0m
+2023.10.30 15:04:08 INFO  [info] welcome to sbt 1.9.6 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.10.30 15:04:09 INFO  no build target found for /home/iurl/learn/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2023.10.30 15:04:11 INFO  [info] loading global plugins from /home/iurl/.sbt/1.0/plugins[0m
+2023.10.30 15:04:16 INFO  [info] loading settings for project learn-build-build from metals.sbt ...[0m
+2023.10.30 15:04:16 INFO  [info] loading project definition from /home/iurl/learn/project/project[0m
+2023.10.30 15:04:16 INFO  [info] loading settings for project learn-build from metals.sbt ...[0m
+2023.10.30 15:04:17 INFO  [info] loading project definition from /home/iurl/learn/project[0m
+2023.10.30 15:04:18 INFO  [success] Generated .bloop/learn-build.json[0m
+2023.10.30 15:04:18 INFO  [success] Total time: 1 s, completed Oct 30, 2023 3:04:18 PM[0m
+2023.10.30 15:04:20 INFO  [info] loading settings for project learn from build.sbt ...[0m
+2023.10.30 15:04:20 INFO  [info] set current project to hello-world (in build file:/home/iurl/learn/)[0m
+2023.10.30 15:04:20 INFO  [success] Generated .bloop/learn.json[0m
+2023.10.30 15:04:20 INFO  [success] Generated .bloop/learn-test.json[0m
+2023.10.30 15:04:20 INFO  [success] Total time: 0 s, completed Oct 30, 2023 3:04:21 PM[0m
+2023.10.30 15:04:21 INFO  time: ran 'sbt bloopInstall' in 15s[0m
+2023.10.30 15:04:21 INFO  Attempting to connect to the build server...[0m
+2023.10.30 15:04:21 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 15:04:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 15:04:40 INFO  Attempting to connect to the build server...[0m
+2023.10.30 15:04:40 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 15:04:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/project/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 15:04:40 INFO  time: Connected to build server in 18s[0m
+2023.10.30 15:04:40 INFO  Connected to Build server: Bloop v1.5.11[0m
+2023.10.30 15:04:47 INFO  time: indexed workspace in 6.87s[0m
+2023.10.30 15:05:39 INFO  time: code lens generation in 2.67s[0m
+2023.10.30 15:05:39 INFO  time: code lens generation in 1.45s[0m
+2023.10.30 15:05:43 INFO  running '/home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals9109175998487881545/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.10.30 15:05:44 INFO  [info] welcome to sbt 1.9.6 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.10.30 15:05:46 INFO  [info] loading global plugins from /home/iurl/.sbt/1.0/plugins[0m
+2023.10.30 15:05:47 INFO  [info] loading settings for project learn-build-build from metals.sbt ...[0m
+2023.10.30 15:05:47 INFO  [info] loading project definition from /home/iurl/learn/project/project[0m
+2023.10.30 15:05:47 INFO  [info] loading settings for project learn-build from metals.sbt ...[0m
+2023.10.30 15:05:47 INFO  [info] loading project definition from /home/iurl/learn/project[0m
+2023.10.30 15:05:50 INFO  [success] Generated .bloop/learn-build.json[0m
+2023.10.30 15:05:50 INFO  [success] Total time: 2 s, completed Oct 30, 2023 3:05:50 PM[0m
+2023.10.30 15:05:51 INFO  [info] loading settings for project learn from build.sbt ...[0m
+2023.10.30 15:05:51 INFO  [info] set current project to hello-world (in build file:/home/iurl/learn/)[0m
+2023.10.30 15:05:51 INFO  [success] Generated .bloop/learn.json[0m
+2023.10.30 15:05:51 INFO  [success] Generated .bloop/learn-test.json[0m
+2023.10.30 15:05:51 INFO  [success] Total time: 0 s, completed Oct 30, 2023 3:05:52 PM[0m
+2023.10.30 15:05:52 INFO  time: ran 'sbt bloopInstall' in 9.52s[0m
+2023.10.30 15:05:52 INFO  Disconnecting from Bloop session...[0m
+2023.10.30 15:05:52 INFO  Shut down connection with build server.[0m
+2023.10.30 15:05:52 INFO  Shut down connection with build server.[0m
+2023.10.30 15:05:52 INFO  Attempting to connect to the build server...[0m
+2023.10.30 15:05:52 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 15:05:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 15:05:52 INFO  Attempting to connect to the build server...[0m
+2023.10.30 15:05:52 INFO  Bloop uses /home/iurl/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/iurl/.bloop/bloop.json[0m
+2023.10.30 15:05:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/iurl/learn/project/.metals/bsp.trace.json or /home/iurl/.cache/metals/bsp.trace.json[0m
+2023.10.30 15:05:52 INFO  time: Connected to build server in 0.15s[0m
+2023.10.30 15:05:52 INFO  Connected to Build server: Bloop v1.5.11[0m
+2023.10.30 15:05:52 INFO  time: indexed workspace in 0.79s[0m
+2023.10.30 15:05:55 INFO  time: code lens generation in 1.55s[0m
+2023.10.30 15:19:45 INFO  skipping build import with status 'Installed'[0m

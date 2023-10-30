@@ -1,0 +1,4 @@
+[debug] [learn-build] Classpath dependencies List()
+[debug] [learn-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'learn-build' to '/home/iurl/learn/project/.bloop/learn-build.json'
+[success] Generated .bloop/learn-build.json
